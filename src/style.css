@@ -734,6 +734,7 @@ body {
    PÓSTER DE CAMPAÑA
    ============================================ */
 .poster-wrap {
+  width: 100%;
   margin: 10px auto 8px;
   display: flex;
   justify-content: center;
